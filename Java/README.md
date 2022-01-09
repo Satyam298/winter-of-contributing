@@ -115,8 +115,8 @@ Java is a high-level, class-based, object-oriented programming language. It is a
   `Documentation📃`
   `Audio🔉`
   `Video🖥️`
-- [Characters and Booleans](./Primitive%20Data%20Type/Characters%20and%20Booleans)<br>[
-  `]()Documentation📃` `Audio🔉` `Video🖥️`
+- [Characters and Booleans](./Primitive%20Data%20Type/Characters%20and%20Booleans)<br>
+  `()Documentation📃` `Audio🔉` `Video🖥️`
 - [Literals](./Primitive%20Data%20Type/Literals)<br>
   `Documentation📃`
   `Audio🔉`
